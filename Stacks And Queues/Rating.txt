@@ -1,0 +1,7 @@
+1. Unsolved
+2. Optimized
+3. Optimized
+4. Optimized
+5. Unsolved
+6. Optimized
+7. Optimized (Can Use Linked List Library)
