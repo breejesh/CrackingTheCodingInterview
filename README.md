@@ -9,5 +9,4 @@ My solutions in C/C++ for a few questions in Cracking The Coding Interview 5th E
 
 ### Note
 Not all questions are solved. The solutions provided may not be optimal/best.
-Feel free to add to fork and add more solutions (C/C++ only). 
 
